@@ -1,0 +1,300 @@
+clear
+torus
+0 0 0 0 60
+save
+ anim/000.png
+clear
+torus
+0 0 0 1 59
+save
+ anim/001.png
+clear
+torus
+0 0 0 2 58
+save
+ anim/002.png
+clear
+torus
+0 0 0 3 57
+save
+ anim/003.png
+clear
+torus
+0 0 0 4 56
+save
+ anim/004.png
+clear
+torus
+0 0 0 5 55
+save
+ anim/005.png
+clear
+torus
+0 0 0 6 54
+save
+ anim/006.png
+clear
+torus
+0 0 0 7 53
+save
+ anim/007.png
+clear
+torus
+0 0 0 8 52
+save
+ anim/008.png
+clear
+torus
+0 0 0 9 51
+save
+ anim/009.png
+clear
+torus
+0 0 0 10 50
+save
+ anim/010.png
+clear
+torus
+0 0 0 11 49
+save
+ anim/011.png
+clear
+torus
+0 0 0 12 48
+save
+ anim/012.png
+clear
+torus
+0 0 0 13 47
+save
+ anim/013.png
+clear
+torus
+0 0 0 14 46
+save
+ anim/014.png
+clear
+torus
+0 0 0 15 45
+save
+ anim/015.png
+clear
+torus
+0 0 0 16 44
+save
+ anim/016.png
+clear
+torus
+0 0 0 17 43
+save
+ anim/017.png
+clear
+torus
+0 0 0 18 42
+save
+ anim/018.png
+clear
+torus
+0 0 0 19 41
+save
+ anim/019.png
+clear
+torus
+0 0 0 20 40
+save
+ anim/020.png
+clear
+torus
+0 0 0 21 39
+save
+ anim/021.png
+clear
+torus
+0 0 0 22 38
+save
+ anim/022.png
+clear
+torus
+0 0 0 23 37
+save
+ anim/023.png
+clear
+torus
+0 0 0 24 36
+save
+ anim/024.png
+clear
+torus
+0 0 0 25 35
+save
+ anim/025.png
+clear
+torus
+0 0 0 26 34
+save
+ anim/026.png
+clear
+torus
+0 0 0 27 33
+save
+ anim/027.png
+clear
+torus
+0 0 0 28 32
+save
+ anim/028.png
+clear
+torus
+0 0 0 29 31
+save
+ anim/029.png
+clear
+torus
+0 0 0 30 30
+save
+ anim/030.png
+clear
+torus
+0 0 0 31 29
+save
+ anim/031.png
+clear
+torus
+0 0 0 32 28
+save
+ anim/032.png
+clear
+torus
+0 0 0 33 27
+save
+ anim/033.png
+clear
+torus
+0 0 0 34 26
+save
+ anim/034.png
+clear
+torus
+0 0 0 35 25
+save
+ anim/035.png
+clear
+torus
+0 0 0 36 24
+save
+ anim/036.png
+clear
+torus
+0 0 0 37 23
+save
+ anim/037.png
+clear
+torus
+0 0 0 38 22
+save
+ anim/038.png
+clear
+torus
+0 0 0 39 21
+save
+ anim/039.png
+clear
+torus
+0 0 0 40 20
+save
+ anim/040.png
+clear
+torus
+0 0 0 41 19
+save
+ anim/041.png
+clear
+torus
+0 0 0 42 18
+save
+ anim/042.png
+clear
+torus
+0 0 0 43 17
+save
+ anim/043.png
+clear
+torus
+0 0 0 44 16
+save
+ anim/044.png
+clear
+torus
+0 0 0 45 15
+save
+ anim/045.png
+clear
+torus
+0 0 0 46 14
+save
+ anim/046.png
+clear
+torus
+0 0 0 47 13
+save
+ anim/047.png
+clear
+torus
+0 0 0 48 12
+save
+ anim/048.png
+clear
+torus
+0 0 0 49 11
+save
+ anim/049.png
+clear
+torus
+0 0 0 50 10
+save
+ anim/050.png
+clear
+torus
+0 0 0 51 9
+save
+ anim/051.png
+clear
+torus
+0 0 0 52 8
+save
+ anim/052.png
+clear
+torus
+0 0 0 53 7
+save
+ anim/053.png
+clear
+torus
+0 0 0 54 6
+save
+ anim/054.png
+clear
+torus
+0 0 0 55 5
+save
+ anim/055.png
+clear
+torus
+0 0 0 56 4
+save
+ anim/056.png
+clear
+torus
+0 0 0 57 3
+save
+ anim/057.png
+clear
+torus
+0 0 0 58 2
+save
+ anim/058.png
+clear
+torus
+0 0 0 59 1
+save
+ anim/059.png
