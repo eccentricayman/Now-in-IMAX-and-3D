@@ -3,17 +3,65 @@ from matrix import *
 from math import *
 
 def add_box( points, x, y, z, width, height, depth ):
-    pass
+    xlines = [x, x + width]
+    ylines = [y, y + height]
+    zlines = [z, z + depth]
+    for xpoint in xlines:
+        for ypoint in ylines:
+            for zpoint in zlines:
+                add_edge(points, xpoint, ypoint, zpoint, xpoint + 1, ypoint + 1, zpoint + 1)
 
 def add_sphere( points, cx, cy, cz, r, step ):
-    pass
+    sphere = []
+    generate_sphere(sphere, cx, cy, cz, r, step)
+    for p in sphere:
+        x = p[0]
+        y = p[1]
+        z = p[2]
+        add_edge(points, x, y, z, x + 1, y + 1, z + 1)
+    
 def generate_sphere( points, cx, cy, cz, r, step ):
-    pass
+    theta = 0
+    phi = 0
+    t = 1.0 / step
+    
+    while phi <= step:
+        phiAngle = phi * t * 2 * math.pi
+        while theta <= step:
+            thetaAngle = theta * t * math.pi
+            x = r * math.cos(thetaAngle) + cx
+            y = r * math.sin(thetaAngle) * math.cos(phiAngle) + cy
+            z = r * math.sin(thetaAngle) * math.sin(phiAngle) + cz
+            add_point(points, x, y, z)
+            theta += 1
+        theta = 0
+        phi += 1
 
 def add_torus( points, cx, cy, cz, r0, r1, step ):
-    pass
+    torus = []
+    generate_torus(torus, cx, cy, cz, r0, r1, step)
+    for p in torus:
+        x = p[0]
+        y = p[1]
+        z = p[2]
+        add_edge(points, x, y, z, x + 1, y + 1, z + 1)
+
 def generate_torus( points, cx, cy, cz, r0, r1, step ):
-    pass
+    theta = 0
+    phi = 0
+    t = 1.0 / step
+
+    while phi <= step:
+        phiAngle = phi * t * 2 * math.pi
+        while theta <= step:
+            thetaAngle = theta * t * 2 * math.pi
+            x = math.cos(phiAngle) * (r0 * math.cos(thetaAngle) + r1) + cx
+            y = r0 * math.sin(thetaAngle) + cy
+            z = -1 * math.sin(phiAngle) * (r0 * math.cos(thetaAngle) + r1) + cz
+            add_point(points, x, y, z)
+            theta += 1
+        theta = 0
+        phi += 1
 
 def add_circle( points, cx, cy, cz, r, step ):
     x0 = r + cx
