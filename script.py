@@ -4,9 +4,9 @@ import math
 with open("script", "w") as fd:
 
     end = ""
-    for i in range(0, 60):
+    for i in range(0, 120):
         end += "clear\n"
-        end += "torus\n0 0 0 %d %d\n"%(i, 60 - i)
+        end += "torus\n0 0 0 %d %d\n"%(i, 120 - i)
         end += "apply\n"
         if i < 10:
             end += "save\n anim/00%d.png\n"%(i)

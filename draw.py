@@ -23,11 +23,11 @@ def add_sphere( points, cx, cy, cz, r, step ):
 def generate_sphere( points, cx, cy, cz, r, step ):
     theta = 0
     phi = 0
-    t = int(1 / step)
+    end = int(1 / step)
     
-    while phi <= t:
+    while phi <= end:
         phiAngle = phi * step * 2 * math.pi
-        while theta <= t:
+        while theta <= end:
             thetaAngle = theta * step * math.pi
             x = r * math.cos(thetaAngle) + cx
             y = r * math.sin(thetaAngle) * math.cos(phiAngle) + cy
@@ -49,11 +49,11 @@ def add_torus( points, cx, cy, cz, r0, r1, step ):
 def generate_torus( points, cx, cy, cz, r0, r1, step ):
     theta = 0
     phi = 0
-    t = int(1 / step)
+    end = int(1 / step)
 
-    while phi <= t:
+    while phi <= end:
         phiAngle = phi * step * 2 * math.pi
-        while theta <= t:
+        while theta <= end:
             thetaAngle = theta * step * 2 * math.pi
             x = math.cos(phiAngle) * (r0 * math.cos(thetaAngle) + r1) + cx
             y = r0 * math.sin(thetaAngle) + cy
