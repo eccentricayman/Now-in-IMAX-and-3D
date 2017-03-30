@@ -1,720 +1,780 @@
 clear
 torus
-0 0 0 0 120
+0 0 0 240 0
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/000.png
 clear
 torus
-0 0 0 1 119
+0 0 0 236 4
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/001.png
 clear
 torus
-0 0 0 2 118
+0 0 0 232 8
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/002.png
 clear
 torus
-0 0 0 3 117
+0 0 0 228 12
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/003.png
 clear
 torus
-0 0 0 4 116
+0 0 0 224 16
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/004.png
 clear
 torus
-0 0 0 5 115
+0 0 0 220 20
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/005.png
 clear
 torus
-0 0 0 6 114
+0 0 0 216 24
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/006.png
 clear
 torus
-0 0 0 7 113
+0 0 0 212 28
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/007.png
 clear
 torus
-0 0 0 8 112
+0 0 0 208 32
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/008.png
 clear
 torus
-0 0 0 9 111
+0 0 0 204 36
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/009.png
 clear
 torus
-0 0 0 10 110
+0 0 0 200 40
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/010.png
 clear
 torus
-0 0 0 11 109
+0 0 0 196 44
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/011.png
 clear
 torus
-0 0 0 12 108
+0 0 0 192 48
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/012.png
 clear
 torus
-0 0 0 13 107
+0 0 0 188 52
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/013.png
 clear
 torus
-0 0 0 14 106
+0 0 0 184 56
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/014.png
 clear
 torus
-0 0 0 15 105
+0 0 0 180 60
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/015.png
 clear
 torus
-0 0 0 16 104
+0 0 0 176 64
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/016.png
 clear
 torus
-0 0 0 17 103
+0 0 0 172 68
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/017.png
 clear
 torus
-0 0 0 18 102
+0 0 0 168 72
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/018.png
 clear
 torus
-0 0 0 19 101
+0 0 0 164 76
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/019.png
 clear
 torus
-0 0 0 20 100
+0 0 0 160 80
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/020.png
 clear
 torus
-0 0 0 21 99
+0 0 0 156 84
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/021.png
 clear
 torus
-0 0 0 22 98
+0 0 0 152 88
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/022.png
 clear
 torus
-0 0 0 23 97
+0 0 0 148 92
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/023.png
 clear
 torus
-0 0 0 24 96
+0 0 0 144 96
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/024.png
 clear
 torus
-0 0 0 25 95
+0 0 0 140 100
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/025.png
 clear
 torus
-0 0 0 26 94
+0 0 0 136 104
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/026.png
 clear
 torus
-0 0 0 27 93
+0 0 0 132 108
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/027.png
 clear
 torus
-0 0 0 28 92
+0 0 0 128 112
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/028.png
 clear
 torus
-0 0 0 29 91
+0 0 0 124 116
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/029.png
 clear
 torus
-0 0 0 30 90
+0 0 0 120 120
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/030.png
 clear
 torus
-0 0 0 31 89
+0 0 0 116 124
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/031.png
 clear
 torus
-0 0 0 32 88
+0 0 0 112 128
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/032.png
 clear
 torus
-0 0 0 33 87
+0 0 0 108 132
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/033.png
 clear
 torus
-0 0 0 34 86
+0 0 0 104 136
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/034.png
 clear
 torus
-0 0 0 35 85
+0 0 0 100 140
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/035.png
 clear
 torus
-0 0 0 36 84
+0 0 0 96 144
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/036.png
 clear
 torus
-0 0 0 37 83
+0 0 0 92 148
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/037.png
 clear
 torus
-0 0 0 38 82
+0 0 0 88 152
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/038.png
 clear
 torus
-0 0 0 39 81
+0 0 0 84 156
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/039.png
 clear
 torus
-0 0 0 40 80
+0 0 0 80 160
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/040.png
 clear
 torus
-0 0 0 41 79
+0 0 0 76 164
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/041.png
 clear
 torus
-0 0 0 42 78
+0 0 0 72 168
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/042.png
 clear
 torus
-0 0 0 43 77
+0 0 0 68 172
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/043.png
 clear
 torus
-0 0 0 44 76
+0 0 0 64 176
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/044.png
 clear
 torus
-0 0 0 45 75
+0 0 0 60 180
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/045.png
 clear
 torus
-0 0 0 46 74
+0 0 0 56 184
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/046.png
 clear
 torus
-0 0 0 47 73
+0 0 0 52 188
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/047.png
 clear
 torus
-0 0 0 48 72
+0 0 0 48 192
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/048.png
 clear
 torus
-0 0 0 49 71
+0 0 0 44 196
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/049.png
 clear
 torus
-0 0 0 50 70
+0 0 0 40 200
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/050.png
 clear
 torus
-0 0 0 51 69
+0 0 0 36 204
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/051.png
 clear
 torus
-0 0 0 52 68
+0 0 0 32 208
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/052.png
 clear
 torus
-0 0 0 53 67
+0 0 0 28 212
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/053.png
 clear
 torus
-0 0 0 54 66
+0 0 0 24 216
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/054.png
 clear
 torus
-0 0 0 55 65
+0 0 0 20 220
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/055.png
 clear
 torus
-0 0 0 56 64
+0 0 0 16 224
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/056.png
 clear
 torus
-0 0 0 57 63
+0 0 0 12 228
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/057.png
 clear
 torus
-0 0 0 58 62
+0 0 0 8 232
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/058.png
 clear
 torus
-0 0 0 59 61
+0 0 0 4 236
+ident
+rotate
+ x 70
+rotate
+ y 20
+move
+ 250 250 0
 apply
 save
  anim/059.png
-clear
-torus
-0 0 0 60 60
-apply
-save
- anim/060.png
-clear
-torus
-0 0 0 61 59
-apply
-save
- anim/061.png
-clear
-torus
-0 0 0 62 58
-apply
-save
- anim/062.png
-clear
-torus
-0 0 0 63 57
-apply
-save
- anim/063.png
-clear
-torus
-0 0 0 64 56
-apply
-save
- anim/064.png
-clear
-torus
-0 0 0 65 55
-apply
-save
- anim/065.png
-clear
-torus
-0 0 0 66 54
-apply
-save
- anim/066.png
-clear
-torus
-0 0 0 67 53
-apply
-save
- anim/067.png
-clear
-torus
-0 0 0 68 52
-apply
-save
- anim/068.png
-clear
-torus
-0 0 0 69 51
-apply
-save
- anim/069.png
-clear
-torus
-0 0 0 70 50
-apply
-save
- anim/070.png
-clear
-torus
-0 0 0 71 49
-apply
-save
- anim/071.png
-clear
-torus
-0 0 0 72 48
-apply
-save
- anim/072.png
-clear
-torus
-0 0 0 73 47
-apply
-save
- anim/073.png
-clear
-torus
-0 0 0 74 46
-apply
-save
- anim/074.png
-clear
-torus
-0 0 0 75 45
-apply
-save
- anim/075.png
-clear
-torus
-0 0 0 76 44
-apply
-save
- anim/076.png
-clear
-torus
-0 0 0 77 43
-apply
-save
- anim/077.png
-clear
-torus
-0 0 0 78 42
-apply
-save
- anim/078.png
-clear
-torus
-0 0 0 79 41
-apply
-save
- anim/079.png
-clear
-torus
-0 0 0 80 40
-apply
-save
- anim/080.png
-clear
-torus
-0 0 0 81 39
-apply
-save
- anim/081.png
-clear
-torus
-0 0 0 82 38
-apply
-save
- anim/082.png
-clear
-torus
-0 0 0 83 37
-apply
-save
- anim/083.png
-clear
-torus
-0 0 0 84 36
-apply
-save
- anim/084.png
-clear
-torus
-0 0 0 85 35
-apply
-save
- anim/085.png
-clear
-torus
-0 0 0 86 34
-apply
-save
- anim/086.png
-clear
-torus
-0 0 0 87 33
-apply
-save
- anim/087.png
-clear
-torus
-0 0 0 88 32
-apply
-save
- anim/088.png
-clear
-torus
-0 0 0 89 31
-apply
-save
- anim/089.png
-clear
-torus
-0 0 0 90 30
-apply
-save
- anim/090.png
-clear
-torus
-0 0 0 91 29
-apply
-save
- anim/091.png
-clear
-torus
-0 0 0 92 28
-apply
-save
- anim/092.png
-clear
-torus
-0 0 0 93 27
-apply
-save
- anim/093.png
-clear
-torus
-0 0 0 94 26
-apply
-save
- anim/094.png
-clear
-torus
-0 0 0 95 25
-apply
-save
- anim/095.png
-clear
-torus
-0 0 0 96 24
-apply
-save
- anim/096.png
-clear
-torus
-0 0 0 97 23
-apply
-save
- anim/097.png
-clear
-torus
-0 0 0 98 22
-apply
-save
- anim/098.png
-clear
-torus
-0 0 0 99 21
-apply
-save
- anim/099.png
-clear
-torus
-0 0 0 100 20
-apply
-save
- anim/0100.png
-clear
-torus
-0 0 0 101 19
-apply
-save
- anim/0101.png
-clear
-torus
-0 0 0 102 18
-apply
-save
- anim/0102.png
-clear
-torus
-0 0 0 103 17
-apply
-save
- anim/0103.png
-clear
-torus
-0 0 0 104 16
-apply
-save
- anim/0104.png
-clear
-torus
-0 0 0 105 15
-apply
-save
- anim/0105.png
-clear
-torus
-0 0 0 106 14
-apply
-save
- anim/0106.png
-clear
-torus
-0 0 0 107 13
-apply
-save
- anim/0107.png
-clear
-torus
-0 0 0 108 12
-apply
-save
- anim/0108.png
-clear
-torus
-0 0 0 109 11
-apply
-save
- anim/0109.png
-clear
-torus
-0 0 0 110 10
-apply
-save
- anim/0110.png
-clear
-torus
-0 0 0 111 9
-apply
-save
- anim/0111.png
-clear
-torus
-0 0 0 112 8
-apply
-save
- anim/0112.png
-clear
-torus
-0 0 0 113 7
-apply
-save
- anim/0113.png
-clear
-torus
-0 0 0 114 6
-apply
-save
- anim/0114.png
-clear
-torus
-0 0 0 115 5
-apply
-save
- anim/0115.png
-clear
-torus
-0 0 0 116 4
-apply
-save
- anim/0116.png
-clear
-torus
-0 0 0 117 3
-apply
-save
- anim/0117.png
-clear
-torus
-0 0 0 118 2
-apply
-save
- anim/0118.png
-clear
-torus
-0 0 0 119 1
-apply
-save
- anim/0119.png
